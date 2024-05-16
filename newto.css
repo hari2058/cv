@@ -1,0 +1,207 @@
+body{
+    overflow-x: hidden;
+}
+
+/* @media screen 760px {
+
+    body{
+
+    }
+    
+} */
+.background h2{
+    position: relative;
+    color: rgb(240, 236, 236);
+    top: -22cm;
+    left: 18cm;
+    z-index: 40;
+    font-size: xx-large;
+}
+.topside{
+    position: relative;
+
+    height: 300px;
+    width: 100%;
+    z-index: 50;
+}
+.topside1{
+    width: fit-content;
+   
+}
+.bg1{
+    clip-path: polygon(100.1% 0%, 100.1% 100.3%, 82% 100%, 0% 17%, 0% 0%);
+    background-color: rgb(32, 8, 83);
+    height: 300px;
+    width: 100%;
+    z-index: 5;
+    position: relative;
+    top: -0.5cm;
+}
+.bg2{
+    background-color:rgb(87, 138, 152);
+    clip-path: polygon(0.1% 0%, 34.2% 0.8%, 0% 100.3%);
+    height: 300px;
+    width: 100%;
+    position: relative;
+    top: -350px;
+    z-index: -1;
+
+}
+li{
+    list-style-type: none;
+}
+.topside h2{
+    position: relative;
+    left: 18cm;
+    top: 3cm;
+    font-display:inherit;
+    font-size: 200%;
+    font-family: Arial,Impact, , 'Arial Narrow Bold', sans-serif;
+   
+}
+
+.background img{
+    position: relative;
+    width: 3cm;
+    left: 1cm;
+    top: -25cm;
+    z-index: 20;
+}
+
+
+.about{
+    position: relative;
+    width: 8cm;
+    left: 1cm;
+    top: -24cm;
+
+}
+.about ul{
+    position: relative;
+    right: 1cm;
+}
+.about p{
+    position: relative;
+    left: 4cm;
+    top: -3.49cm;
+}
+.skills{
+    position: relative;
+    top: -3cm;
+}
+.language{
+    position: relative;
+    top: -3cm;
+}
+.software{
+    position: relative;
+    top: -3cm;
+}
+.rightside{
+    position: relative;
+    left: 15cm;
+    top: -48.4cm;
+    width: 15cm;
+    z-index: 25;
+}
+.work1 h1{
+    color: rgb(70, 76, 132);
+    font-size: x-small;
+    top: -4cm;
+}
+.work1 h6{
+    position: relative;
+    font-style: normal;
+    font-size: 100%;
+}
+.work1 p{
+ position: relative;
+ left: 5cm;
+ top: -2.2cm;
+margin-right: 180px;
+}
+ .side{
+    position: relative;
+    left: 6.5cm;
+    top: -1cm;
+    font-size: 80%;
+}
+.work2{
+    position: relative;
+    top: -2cm;
+    margin-right: 180px;
+}
+.work2 h3{
+      position: relative;
+      font-size:80%;
+      color: rgb(60, 18, 151);
+}
+.side2{
+    position: relative;
+    top: -2.3cm;
+    left: 5cm;
+}
+.side3{
+    position: relative;
+    top: -3.8cm;
+    left: 6.5cm;
+    font-size: 80%;
+}
+
+.education h3{
+    position: relative;
+    top: -4cm;
+}
+.education h4{
+    position: relative;
+    top: -4cm;
+    font-size:80%;
+}
+.school{
+    position: relative;
+    top: -5.6cm;
+    left: 5cm;
+}
+.add{
+    position: relative;
+    top: -0.9cm;
+    left: 7cm;
+    font-size: 70%;
+}
+.add span{
+    position: relative;
+    bottom: -0.8cm; 
+   
+    right:12cm ;
+    color: rgb(60, 18, 151);
+    font-size: 80%;
+}
+.master{
+    position: relative;
+    top: -5.8cm;
+    font-size: 90%;
+}
+.master p{
+    position: relative;
+    color: rgb(60, 18, 151);
+    font-size: 70%;
+    top: cm;
+}
+.clz{
+    position: relative;
+    top:-7.6cm ;
+    left: 5cm;
+    font-size: 80%;
+}
+.clz p{
+    position: relative;
+    top: -0.7cm;
+    left: 7cm;
+}
+/* .master h5{
+    position: relative;
+    top: -5cmcm;
+    font-size: 120%;
+    color: white;
+
+} */
